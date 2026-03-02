@@ -2,5 +2,28 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: aliceblue;
 }
 
+p {
+    background-color: aquamarine;
+    color: blue;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: yellowgreen;
+}
+h3 {
+    color: Yellow;
+}
+h4 {
+    color: red;
+}
+h5 {
+    color: fuchsia;
+}
+h6 {
+    color: skyblue;
+}
